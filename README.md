@@ -38,4 +38,4 @@ streamlit run pychain.py
 ---
 
 ## Examples
-![example]"C:\Users\audel\OneDrive\Desktop\Module_18_Blockchain_Pychain_Ledger\Project Images\Module 18 Image 2.png"
+![alt text](https://github.com/asabeti/Module_18_Blockchain_Pychain_Ledger/blob/main/Project%20Images/Module%2018%20Image%202.png)
