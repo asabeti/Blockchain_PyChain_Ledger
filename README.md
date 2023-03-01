@@ -39,3 +39,19 @@ streamlit run pychain.py
 
 ## Examples
 ![alt text](https://github.com/asabeti/Module_18_Blockchain_Pychain_Ledger/blob/main/Project%20Images/Module%2018%20Image%202.png)
+![alt text](https://github.com/asabeti/Module_18_Blockchain_Pychain_Ledger/blob/main/Project%20Images/Module%2018%20Image%203.png)
+![alt text](https://github.com/asabeti/Module_18_Blockchain_Pychain_Ledger/blob/main/Project%20Images/Module%2018%20Validate%20True.png)
+![alt text](https://github.com/asabeti/Module_18_Blockchain_Pychain_Ledger/blob/main/Project%20Images/Module%2018%20Validate%20True%202.png)
+![alt text](https://github.com/asabeti/Module_18_Blockchain_Pychain_Ledger/blob/main/Project%20Images/Module%2018%20Terminal.png)
+---
+## Contributors
+
+Brought to you by Audell Sabeti
+Business: audellsabeti@compacific.com
+Personal: asabeti@outlook.com
+
+---
+
+## License
+
+MIT
